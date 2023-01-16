@@ -1,0 +1,356 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif; */
+}
+
+body {
+  background-color: whitesmoke;
+  background-image: url(https://previews.123rf.com/images/peshkov/peshkov1905/peshkov190500374/128678729-abstract-glowing-circuit-coding-background-programming-and-technology-concept-3d-rendering.jpg);
+  background-size: cover;
+
+}
+.nav {
+  display: flex;
+  flex-direction: row;
+  font-size: 15px;
+  cursor: pointer;
+  justify-content: right;
+  position: relative;
+  right: 10px;
+  
+
+
+}
+
+.Navback {
+  background-image: url(https://previews.123rf.com/images/peshkov/peshkov1905/peshkov190500374/128678729-abstract-glowing-circuit-coding-background-programming-and-technology-concept-3d-rendering.jpg);
+  background-size: cover;
+
+  height: 80px;
+}
+
+#homebtn {
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+  cursor: pointer;
+  position: relative;
+  top: 45px;
+  border: solid black 2px;
+  padding: 5px;
+  background-color: white;
+}
+
+#aboutmebtn {
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+  cursor: pointer;
+  position: relative;
+  left: 2px;
+  top: 45px;
+  border: solid black 2px;
+  background-color: white;
+  padding: 5px;
+
+}
+
+#portbtn {
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+  cursor: pointer;
+  position: relative;
+  left: 4px;
+  top: 45px;
+  border: solid black 2px;
+  background-color: white;
+  padding: 5px;
+}
+
+#contactbtn {
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+  cursor: pointer;
+  position: relative;
+  left: 6px;
+  top: 45px;
+  border: solid black 2px;
+  padding: 5px;
+  background-color: white;
+}
+
+#resumebtn {
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+  cursor: pointer;
+  position: relative;
+  left: 8px;
+  top: 45px;
+  border: solid black 2px;
+  padding: 5px;
+  background-color: white;
+}
+
+h1 {
+  margin: 32px 0;
+  color: white;
+  font-size: 24px;
+  position: relative;
+  font-size: 40px;
+  background-color: red;
+  width: 30%;
+  bottom:8vh;
+  margin-left: 10px;
+  padding-right: 4vh;
+}
+h2{
+  font-size: 45px;
+  text-align: center;
+
+}
+.Home-Page {
+  font-family: 'cursive';
+  width: 35%;
+  height: 270px;
+  position: relative;
+  top: 10vh;
+  text-align: center;
+  margin: 32px auto;
+  border-radius: 10px;
+  color: black;
+  font-size: 50px;
+  border: solid black 2px;
+  background-color: white;
+  padding-top: 80px;
+
+}
+
+.Aboutme {
+  justify-content: center;
+  width: 50%;
+  position: relative;
+  top: 9vh;
+  text-align: center;
+  margin: 2px auto;
+  border-radius: 10px;
+  padding-bottom: 2px;
+  color: black;
+  font-size: 24px;
+  border: solid black 5px;
+  background-color: white;
+}
+
+.email {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 50%;
+  position: relative;
+  top: 150px;
+  left: 30px;
+  text-align: center;
+  margin: 2px auto;
+  border-radius: 10px;
+  padding-bottom: 2px;
+  color: black;
+  font-size: 24px;
+  border: solid black 5px;
+  background-color: white;
+}
+
+.cell {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 50%;
+  position: relative;
+  top: 150px;
+  left: 30px;
+  text-align: center;
+  margin: 2px auto;
+  border-radius: 10px;
+  padding-bottom: 2px;
+  color: black;
+  font-size: 24px;
+  border: solid black 5px;
+  background-color: white;
+}
+
+
+
+
+
+
+
+.contactInformation {
+  width: 50%;
+  height: 50vh;
+  position: relative;
+  top: 5vh;
+  text-align: center;
+  margin: 2px auto;
+  border-radius: 10px;
+  padding-bottom: 2px;
+  color: black;
+  font-size: 24px;
+  border: solid black 5px;
+  background-color: white;
+  line-height: 2;
+
+
+}
+
+.emailInfo {
+  position: relative;
+  top: 8vh;
+  text-align: center;
+  font-size: 30px;
+
+}
+.linkedInInfo {
+  position: relative;
+  top: 14vh;
+  font-size: 30px;
+
+}
+
+
+.FrontEndKnowledge {
+  width: 20%;
+  height: 400px;
+  position: relative;
+  top: 10px;
+  left: 5px;
+  text-align: center;
+  padding-bottom: 2px;
+  color: black;
+  font-size: 24px;
+  border: solid black 5px;
+  background-color: white;
+  margin-bottom: 10px;
+
+
+}
+
+.BackEndKnowledge {
+  width: 20%;
+  height: 400px;
+  position: relative;
+  top: 10px;
+  left: 5px;
+  text-align: center;
+  padding-bottom: 2px;
+  color: black;
+  font-size: 24px;
+  border: solid black 5px;
+  background-color: white;
+  margin-bottom: 10px;
+
+
+
+}
+
+
+.resumelink {
+  width: 20%;
+  position: relative;
+  top: 10px;
+  left: 5px;
+  padding-bottom: 2px;
+  color: black;
+  font-size: 15px;
+  border: solid black 5px;
+  background-color: white;
+  margin-bottom: 10px;
+
+
+
+}
+
+
+.FrontEnd {
+  position: relative;
+  right: 10px;
+  top: 5px;
+  line-height: 2;
+
+}
+
+.BackEnd {
+  position: relative;
+  right: 10px;
+  top: 5px;
+  line-height: 2;
+
+}
+
+
+
+.projects {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  margin-right: 5px;
+
+}
+
+.projects2 {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  margin-right: 5px;
+
+}
+.toughDecisions{
+  margin-right: 15px;
+}
+
+.DreamTeam{
+  margin-right: 15px;
+}
+
+.WhattoWatch{
+  margin-right: 15px;
+}
+.Password{
+  margin-right: 15px;
+}
+
+.foot{
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  justify-content: center;
+  background-color: white;
+  line-height: 2;
+
+}
+
+.github{
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  justify-content: center;
+  background-color: white;
+  line-height: 2;
+  left: 50%;
+  top: 95%;
+  
+}
+.linkedin{
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  justify-content: center;
+  background-color: white;
+  line-height: 2;
+  left: 45%;
+  top: 95%;
+  
+}
