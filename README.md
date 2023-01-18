@@ -1,7 +1,7 @@
 # GarrettsPortfolio
 
- <img src="../assets/ReactPortfolio.png">     
-
+ 
+  <img src="../assets/ReactPortfolio.png" alt="ReactPortfolio" title="Portfolio">
 
   # table of Contents:
   - [Description](#description)
@@ -34,3 +34,5 @@
     https://github.com/garrettj94, 
     
     garrettjackson43@gmail.com
+
+    https://garrettj94.github.io/GarrettsPortfolio/
