@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GarrettsPortfolio-gh-pages/static/css/main.91aeaad0.css",
+    "main.js": "/GarrettsPortfolio-gh-pages/static/js/main.edbd4f0a.js",
+    "static/media/toughdecisions.png": "/GarrettsPortfolio-gh-pages/static/media/toughdecisions.6158105b62038bdeb425.png",
+    "static/media/WhatToWatch.png": "/GarrettsPortfolio-gh-pages/static/media/WhatToWatch.d70fcf3a3fd9518af21f.png",
+    "static/media/Resume.png": "/GarrettsPortfolio-gh-pages/static/media/Resume.813251d145165daaf50b.png",
+    "static/media/LinkedIn.png": "/GarrettsPortfolio-gh-pages/static/media/LinkedIn.eb124a8e9a46de5488e1.png",
+    "static/media/Passwordgen.png": "/GarrettsPortfolio-gh-pages/static/media/Passwordgen.fef3baea956c10ff4d0e.png",
+    "static/media/ORM.png": "/GarrettsPortfolio-gh-pages/static/media/ORM.461a8dba80b3bd266ab5.png",
+    "static/media/Screenshot_20221201_030412.png": "/GarrettsPortfolio-gh-pages/static/media/Screenshot_20221201_030412.aee994fc78237820f566.png",
+    "index.html": "/GarrettsPortfolio-gh-pages/index.html",
+    "main.91aeaad0.css.map": "/GarrettsPortfolio-gh-pages/static/css/main.91aeaad0.css.map",
+    "main.edbd4f0a.js.map": "/GarrettsPortfolio-gh-pages/static/js/main.edbd4f0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91aeaad0.css",
+    "static/js/main.edbd4f0a.js"
+  ]
+}
