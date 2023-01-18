@@ -116,8 +116,8 @@ h2{
 }
 .Home-Page {
   font-family: 'cursive';
-  width: 35%;
-  height: 270px;
+  width: 100vh;
+  height: 45vh;
   position: relative;
   top: 10vh;
   text-align: center;
@@ -130,7 +130,11 @@ h2{
   padding-top: 80px;
 
 }
-
+.profile{
+  position: relative;
+  left: 70vh;
+  bottom: 20vh;
+}
 .Aboutme {
   justify-content: center;
   width: 50%;

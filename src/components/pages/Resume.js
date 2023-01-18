@@ -63,7 +63,7 @@ export default function Resume() {
             <li> Node </li>
             <li> Express </li>
             <li> Socket.io </li>
-            <li> Object-Relational Mapping </li>
+            <li> Git</li>
 
 
 
