@@ -12,10 +12,10 @@ const ContactForm = () => {
       <div  className='contactInformation' >
           If you like what you see you can contact me at the following:
          <div>
-         <p className='emailInfo'> email: garrettjackson43@gmail.com</p>
+         <p className='emailInfo'> Email: garrettjackson43@gmail.com</p>
          </div>
          <div>
-         <p className='linkedInInfo'> linkedIn:https://www.linkedin.com/in/garrett-jackson-8a603a25a/</p>
+         <p className='linkedInInfo'> LinkedIn: https://www.linkedin.com/in/garrett-jackson-8a603a25a/</p>
          </div>
       </div>
       
