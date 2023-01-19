@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GarrettsPortfolio/static/css/main.02d9645e.css",
-    "main.js": "/GarrettsPortfolio/static/js/main.5c1d754e.js",
+    "main.css": "/GarrettsPortfolio/static/css/main.d64849e3.css",
+    "main.js": "/GarrettsPortfolio/static/js/main.3bc200de.js",
     "static/media/toughdecisions.png": "/GarrettsPortfolio/static/media/toughdecisions.6158105b62038bdeb425.png",
     "static/media/WhatToWatch.png": "/GarrettsPortfolio/static/media/WhatToWatch.d70fcf3a3fd9518af21f.png",
     "static/media/Resume.png": "/GarrettsPortfolio/static/media/Resume.813251d145165daaf50b.png",
@@ -10,12 +10,13 @@
     "static/media/ORM.png": "/GarrettsPortfolio/static/media/ORM.461a8dba80b3bd266ab5.png",
     "static/media/profilepic.jpg": "/GarrettsPortfolio/static/media/profilepic.b660e6691fbe1f3cebaf.jpg",
     "static/media/Screenshot_20221201_030412.png": "/GarrettsPortfolio/static/media/Screenshot_20221201_030412.aee994fc78237820f566.png",
+    "static/media/NoteTaker.png": "/GarrettsPortfolio/static/media/NoteTaker.392e7126d6972f4a4621.png",
     "index.html": "/GarrettsPortfolio/index.html",
-    "main.02d9645e.css.map": "/GarrettsPortfolio/static/css/main.02d9645e.css.map",
-    "main.5c1d754e.js.map": "/GarrettsPortfolio/static/js/main.5c1d754e.js.map"
+    "main.d64849e3.css.map": "/GarrettsPortfolio/static/css/main.d64849e3.css.map",
+    "main.3bc200de.js.map": "/GarrettsPortfolio/static/js/main.3bc200de.js.map"
   },
   "entrypoints": [
-    "static/css/main.02d9645e.css",
-    "static/js/main.5c1d754e.js"
+    "static/css/main.d64849e3.css",
+    "static/js/main.3bc200de.js"
   ]
 }
