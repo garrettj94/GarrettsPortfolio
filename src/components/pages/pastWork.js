@@ -60,7 +60,7 @@ export default function Past() {
       image: <img style={{ width: 400, height: 200 }} className='Password' src={require('../assets/Passwordgen.png')} alt='Project4'></img>
     },
     {
-      name: ' Note Taker',
+      name: 'Note Taker',
       url: 'https://notetakernode.herokuapp.com/',
       image:<img style={{ width: 400, height: 200 }} className='NoteTaker' src={require('../assets/NoteTaker.png')} alt='Project5'></img>
     },
