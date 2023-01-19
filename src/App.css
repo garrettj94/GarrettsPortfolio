@@ -319,12 +319,16 @@ h2{
   margin-right: 15px;
 }
 
-.WhattoWatch{
+/* .WhattoWatch{
   margin-right: 15px;
-}
+} */
 .Password{
   margin-right: 15px;
 }
+.NoteTaker {
+  margin-right: 15px;
+}
+
 
 .foot{
   display: flex;
