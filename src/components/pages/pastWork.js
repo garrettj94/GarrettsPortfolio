@@ -60,9 +60,14 @@ export default function Past() {
       image: <img style={{ width: 400, height: 200 }} className='Password' src={require('../assets/Passwordgen.png')} alt='Project4'></img>
     },
     {
+      name: ' Note Taker',
+      url: 'https://notetakernode.herokuapp.com/',
+      image:<img style={{ width: 400, height: 200 }} className='NoteTaker' src={require('../assets/NoteTaker.png')} alt='Project5'></img>
+    },
+    {
       name: ' E-Commerce Back End Project',
       url: 'https://drive.google.com/file/d/1u_y2niJrsJ4g21H-0WLUZ7AF_f3uznpP/view',
-      image:<img style={{ width: 400, height: 200 }} className='ORM' src={require('../assets/ORM.png')} alt='Project5'></img>
+      image:<img style={{ width: 400, height: 200 }} className='ORM' src={require('../assets/ORM.png')} alt='Project6'></img>
     },
   ]
 
